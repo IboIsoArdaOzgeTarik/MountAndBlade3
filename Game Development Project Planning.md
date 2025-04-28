@@ -3,6 +3,7 @@
 
 | Task                       | Description                               |
 | -------------------------- | ----------------------------------------- |
+| Game Research              | Research other games in this genre        |
 | Game Concept Design        | Create the main idea, genre, story        |
 | Game Art Design            | Design characters, backgrounds, UI        |
 | Game Mechanics Development | Define and code core gameplay mechanics   |
@@ -16,6 +17,7 @@
 | Task                       | Assigned To      |
 | -------------------------- | ---------------- |
 | Game Concept Design        | Özge             |
+| Game Research              | Özge             |
 | Game Art Design            | Tarık            |
 | Game Mechanics Development | İsmail           |
 | Level Design               | Arda             |
