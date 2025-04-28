@@ -1,0 +1,9 @@
+Conducted Tests
+
+Feature	Test Performed	Result
+Character Movement	Tested movement in all directions	Passed
+Combat Mechanics	Tested basic attack and defense moves	Passed
+Inventory System	Added and removed items from inventory	Passed
+Quest System	Completed a sample side quest	Passed
+UI Navigation	Navigated menus and settings	Passed
+Audio	Checked background music and SFX	Passeds
