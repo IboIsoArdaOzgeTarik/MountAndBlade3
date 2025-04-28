@@ -1,4 +1,4 @@
-Game Research Report
+Game Research 
 🎮 Objective
 The goal of this research is to analyze successful games within the same genre and identify key elements that can inspire and guide the development of Mount & Blade III: Legacy of Calradia.
 
