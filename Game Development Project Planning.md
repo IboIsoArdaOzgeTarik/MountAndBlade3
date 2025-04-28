@@ -21,7 +21,7 @@
 | Level Design               | Arda             |
 | Sound Design               | İbrahim          |
 | Testing                    | All Team Members |
-| Launch Preparation         | İsmail and Özge  |
+| Launch Preparation         | İsmail and Arda  |
 
 ## PLAN21: Develop Project Approach
 
