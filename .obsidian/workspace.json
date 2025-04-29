@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "e071d2537442825e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e7735176994da9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f85c770f6f63107",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Development Project Planning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Game Development Project Planning"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12326449fdaae8ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "683c1d2aa7e10466",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bc0dc19765c7c43",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "deea31aabc7c0ea1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7bde67034d0b740d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e4c5f23d1e89a242",
+    "type": "split",
+    "children": [
+      {
+        "id": "b37e9c3ba378b8c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0030d381eb458b45",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Game Development Project Planning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Game Development Project Planning"
+            }
+          },
+          {
+            "id": "9a3cac204fba0619",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Game Development Project Planning.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Game Development Project Planning"
+            }
+          },
+          {
+            "id": "108c7248db6f2b8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ffd2e2e1bafe7e81",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Game Development Project Planning.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Game Development Project Planning"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7f85c770f6f63107",
+  "lastOpenFiles": [
+    "launch-windows",
+    "Launch Ios.txt",
+    "testing-arda",
+    "Testing Tarık V3.txt",
+    "Game-Research.md",
+    "Tarik.jpg",
+    "Artınyo.txt",
+    "testing iso",
+    "İso.exe.txt",
+    "levelDesign",
+    "Game-Concept-Design.md",
+    "Art Design",
+    "AA.txt",
+    "Game-Mechanics",
+    "Monitoring-and-control-plan.md",
+    "Game Development Project Planning.md",
+    "Monitoring and control plan.md",
+    "Stakeholder-Plan.md",
+    "Resource-Plan.md",
+    "Project-Plan.md",
+    "Project-Goal.md"
+  ]
+}
